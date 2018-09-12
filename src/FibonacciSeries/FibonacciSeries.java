@@ -10,7 +10,7 @@ public class FibonacciSeries {
 		int a=0;
 		int b=1;
 		int c;
-		System.out.println("enter the number of fibonacci series");
+		System.out.println("enter the limit upto which you want to print fibonacci series");
 		Scanner s=new Scanner(System.in);
 
 		int n=s.nextInt();
